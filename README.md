@@ -1,7 +1,6 @@
-- NOM : 
-- PRÉNOM :
-- URL du site :
-- URL FIGMA :
+Désolé, je viens de voir que j'ai commit sur un fork de ce dossier et pas directement sur celui-ci..
+Je vous mets juste en dessous le lien Git de mon projet où vous pourrez voir mes commits, etc.
+lien de mon Git : https://github.com/Kiruake/CHAVES-AYRTON-Projet-Int-gration.git
 
 # Structure de départ pour le projet individuel.
 
